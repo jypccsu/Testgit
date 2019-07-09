@@ -6,6 +6,7 @@ public class Tesgit {
 		System.out.println("ÄãºÃ°¡4447");
 		System.out.println("ÄãºÃ°¡2");
 	     System.out.println("ÄãºÃ");
+	     System.out.println("haode");
 
 	}
 }
